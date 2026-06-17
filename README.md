@@ -1,8 +1,13 @@
 # LLMOps — Tests unitaires pour les LLM avec pytest
-
-Projet réalisé dans le cadre du Master 2 Data à Ynov Campus.  
+ 
 Mise en place d'une infrastructure de **tests automatisés et d'observabilité** pour un pipeline LLM de service client, en suivant les pratiques LLMOps.
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=flat&logo=langfuse&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Coverage](https://img.shields.io/badge/coverage-88%25-brightgreen?style=flat)
 ---
 
 ## Contexte
